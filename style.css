@@ -1,0 +1,44 @@
+body {
+  font-family: Arial;
+  background: #f0f0f0;
+  padding: 20px;
+}
+
+#messages {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+#messages li {
+  padding: 5px 10px;
+  background: #fff;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+#form {
+  display: flex;
+}
+
+#input,
+#usernameInput {
+  flex: 1;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+#sendBtn {
+  padding: 10px 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+#typing {
+  font-style: italic;
+  color: gray;
+}
