@@ -44,6 +44,8 @@ Features:
 
 OUTPUT:
 
+<img width="1359" height="643" alt="Image" src="https://github.com/user-attachments/assets/f7494117-afbe-431f-bdf3-14527e16d098" />
+
 
 AUTHOR:
 
